@@ -14,6 +14,7 @@ const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology:
 
 async function run (){
     try{
+        // collections
         const booksCategoryCollection = client.db('BooksGallery').collection('categories');
         const booksCollection = client.db('BooksGallery').collection('books');
         const bookingsCollection = client.db('BooksGallery').collection('bookings');
@@ -77,6 +78,7 @@ async function run (){
             res.send(seller)
             
         });
+
         app.get('/users/admin/:email', async (req, res) => {
             const email = req.params.email;
             const query = { email }
@@ -90,7 +92,7 @@ async function run (){
             const user = await usersCollection.findOne(query);
             res.send({ isBuyer: user?.role === 'Buyer' });
         });
-        
+
 
         app.get('/users/seller/:email', async (req, res) => {
             const email = req.params.email;
