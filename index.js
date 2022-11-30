@@ -20,6 +20,7 @@ async function run (){
         const bookingsCollection = client.db('BooksGallery').collection('bookings');
         const usersCollection = client.db('BooksGallery').collection('users');
 
+        // categories
         app.get('/categories', async(req, res)=>{
             const query = {}
             const result = await booksCategoryCollection.find(query).toArray()
