@@ -91,6 +91,7 @@ async function run (){
             res.send({ isBuyer: user?.role === 'Buyer' });
         });
         
+
         app.get('/users/seller/:email', async (req, res) => {
             const email = req.params.email;
             const query = { email }
