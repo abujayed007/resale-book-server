@@ -26,7 +26,8 @@ async function run (){
             const result = await booksCategoryCollection.find(query).toArray()
             res.send(result)
         });
-
+        
+         // books
         app.post('/books', async(req, res)=>{
             const book = req.body;
             const result = await booksCollection.insertOne(book)
