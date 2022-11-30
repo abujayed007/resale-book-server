@@ -1,11 +1,92 @@
 [
     {
-        "category": "Comic"
+        "name": "Fantastic Four: Facsimile Edition (2010) #52",
+        "category_name": "Comic",
+        "img":"https://i.annihil.us/u/prod/marvel/i/mg/6/c0/63755f7e41d5a/clean.jpg",
+        "story":"The first appearance of the Black Panther - from the wild imaginations of Stan Lee and Jack Kirby at the peak of their creative powers! On a mission in the remote African nation of Wakanda, the Fantastic Four encounter T’Challa, the warrior king – and one by one, Reed, Sue, Ben and Johnny are bested by the mighty monarch! But when Wakanda comes under attack by Ulysses Klaw and his monstrous creations made of pure sound, the FF and the Black Panther forge an alliance for the ages – and one of the Marvel Universe’s most iconic heroes shows his true mettle! It’s one of the all-time great Marvel comic books, boldly re-presented in its original form, ads and all! Reprinting FANTASTIC FOUR (1961) #52.",
+        "location":"Dhaka",
+        "originalPrice":"50",
+        "resalePrice":"35",
+        "use":"2"
     },
     {
-        "category": "Horror"
+        "name": "Maus",
+        "category_name": "Comic",
+        "img":"https://m.media-amazon.com/images/I/51bX7G6BgXL._AC_SY780_.jpg",
+        "story":"Maus is a nonfiction book presented in the graphic novel style, written by American cartoonist Art Spiegelman. Serialized from 1980 to 1991, it depicts Spiegelman interviewing his father about his experiences as a Polish Jew and Holocaust survivor. The work employs postmodernist techniques and represents Jews as mice, Wehrmacht soldiers as cats, Poles as pigs, Americans as dogs, the British as fish, the French as frogs, the Swedes as reindeer, and the Romani as gypsy moths. Critics have classified Maus as memoir, biography, history, fiction, autobiography, or a mix of genres. In 1992, it became the first and so far only graphic novel to win a Pulitzer Prize",
+        "location":"Chottogram",
+        "originalPrice":"120",
+        "resalePrice":"85",
+        "use":"3"
     },
     {
-        "category": "Adventure stories"
+        "name": "Fun Home: A Family Tragicomic",
+        "category_name": "Comic",
+        "img":"https://m.media-amazon.com/images/I/71sMATDF6DL.jpg",
+        "story":"The narrative of Fun Home is non-linear and recursive.[36] Incidents are told and re-told in the light of new information or themes Bechdel describes the structure of Fun Home as a labyrinth, going over the same material, but starting from the outside and spiraling in to the center of the story.[38] In an essay on memoirs and truth in the academic journal PMLA, Nancy K. Miller explains that as Bechdel revisits scenes and themes she re-creates memories in which the force of attachment generates the structure of the memoir itself.[39] Additionally, the memoir derives its structure from allusions to various works of literature, Greek myth and visual arts; the events of Bechdel's family life during her childhood and adolescence are presented through this allusive lens.[36] Miller notes that the narratives of the referenced literary texts provide clues, both true and false, to the mysteries of family relations",
+        "location":"Comilla",
+        "originalPrice":"90",
+        "resalePrice":"65",
+        "use":"4"
+    },
+    {
+        "name": "It",
+        "category_name": "Horror",
+        "img":"https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+        "story":"During a rainstorm in Derry, Maine, a six-year-old boy named Georgie Denbrough sails a paper boat along the rainy streets before it washes down into a storm drain. Looking in the drain, Georgie encounters a clown who introduces himself as Pennywise the Dancing Clown. Georgie, despite knowing he should not talk to strangers, is enticed by Pennywise to reach into the drain and retrieve his boat. It then rips his arm off, and Georgie disappears.",
+        "location":"Khulna",
+        "originalPrice":"80",
+        "resalePrice":"60",
+        "use":"3"
+    },
+    {
+        "name": "A Head Full of Ghosts",
+        "category_name": "Horror",
+        "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472556688l/31713935._SX318_.jpg",
+        "story":"The book is told from the perspective of Meredith Merry Barrett, a 23-year-old who is finally ready to share details of the horrific incidents that occurred when she was eight years old. Merry tells this story to a writer named Rachel Neville. These flashbacks are what serve as the narrative going forward in the novel, with a few chapters that show Merry and Rachel in the present. There are also a few chapters containing posts from a blog called The Last Final Girl. This blog, which is written by a girl named Karen, is diving into a deconstruction of the reality TV show that Merry and her family starred in called The Possession. It is later revealed that Karen is actually a pseudonym.",
+        "location":"Rajshahi",
+        "originalPrice":"70",
+        "resalePrice":"50",
+        "use":"2"
+    },
+    {
+        "name": "The Exorcist",
+        "category_name": "Horror",
+        "img":"https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "story":"An elderly Jesuit priest named Father Lankester Merrin is leading an archaeological dig in northern Iraq and is studying ancient relics. After discovering a small statue of the demon Pazuzu (an actual ancient Assyrian demon), a series of omens alerts him to a pending confrontation with a powerful evil, which, unknown to the reader at this point, he has battled before in an exorcism in Africa.",
+        "location":"Dhaka",
+        "originalPrice":"130",
+        "resalePrice":"95",
+        "use":"3"
+    },
+    {
+        "name": "The Mysterious Island        ",
+        "category_name": "Adventure story",
+        "img":"https://www.lwcurrey.com/pictures/medium/160993.jpg",
+        "story":"During the American Civil War, five Northern prisoners of war escape during the Siege of Richmond, Virginia, by hijacking a hydrogen-filled observation balloon. The escapees are Cyrus Smith, a railroad engineer in the Union army (named Cyrus Harding in Kingston's version); his ex-slave and loyal follower Neb (short for Nebuchadnezzar); Bonadventure Pencroff, a sailor (who is addressed only by his surname; in Kingston's translation, he is named Pencroft); his protégé and adopted son Harbert Brown (called Herbert in some translations); and the journalist Gedéon Spilett (Gideon Spilett in English versions). The company is completed by Cyrus's dog",
+        "location":"Barisal",
+        "originalPrice":"120",
+        "resalePrice":"90",
+        "use":"3"
+    },
+    {
+        "name": "Fantastic Four: Facsimile Edition (2010) #52",
+        "category_name": "Adventure story",
+        "img":"https://m.media-amazon.com/images/M/MV5BODFlODBmYjgtNmZkMi00NWY1LWJlMjMtZGFkNGY1ZDE3NTdhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "story":"The story opens in 1897 with Buck, a powerful 140-pound St. Bernard–Scotch Shepherd mix,[1][2] happily living in California's Santa Clara Valley as the pampered pet of Judge Miller and his family. One night, assistant gardener Manuel, needing money to pay off gambling debts, steals Buck and sells him to a stranger. Buck is shipped to Seattle, where he is confined in a crate, starved, and ill-treated. When released, Buck attacks his handler, the man in the red sweater who teaches Buck the law of club and fang, sufficiently cowing him. The man shows some kindness after Buck demonstrates obedience.",
+        "location":"Rangpur",
+        "originalPrice":"110",
+        "resalePrice":"80",
+        "use":"3"
+    },
+    {
+        "name": "The Swiss Family Robinson",
+        "category_name": "Adventure story",
+        "img":"https://upload.wikimedia.org/wikipedia/en/a/aa/Swiss_family_robinson322.jpg",
+        "story":"Written by Swiss writer, Johann David Wyss, edited by his son Johann Rudolf Wyss, and illustrated by another son, Johann Emmanuel Wyss, the novel was intended to teach his four sons about family values, good farming, and the uses of the natural world and self-reliance. Wyss' attitude towards its education is in line with the teachings of Jean-Jacques Rousseau, and many chapters involve Christian-oriented moral lessons such as frugality, husbandry, acceptance, and cooperation.",
+        "location":"Khulna",
+        "originalPrice":"95",
+        "resalePrice":"60",
+        "use":"2"
     }
 ]

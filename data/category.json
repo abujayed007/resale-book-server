@@ -1,0 +1,14 @@
+[
+{
+    "name":"Comic",
+    "category_id": "01"
+},
+{
+    "name":"Horror",
+    "category_id": "02"
+},
+{
+    "name":"Adventure story",
+    "category_id": "03"
+}
+]
