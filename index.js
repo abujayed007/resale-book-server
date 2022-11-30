@@ -26,7 +26,14 @@ async function run (){
             const result = await booksCategoryCollection.find(query).toArray()
             res.send(result)
         });
-        
+
+        app.get('/category/:name', async (req, res)=>{
+            const name = req.params.name
+            const query = {category_name : name}
+            const category = await booksCollection.find(query).toArray()
+            res.send(category)
+         })
+
          // books
         app.post('/books', async(req, res)=>{
             const book = req.body;
@@ -39,12 +46,7 @@ async function run (){
             res.send(books)
         });
 
-        app.get('/category/:name', async (req, res)=>{
-           const name = req.params.name
-           const query = {category_name : name}
-           const category = await booksCollection.find(query).toArray()
-           res.send(category)
-        })
+    //    bookings 
         app.post('/bookings', async(req, res)=>{
             const booking = req.body
             const result = await bookingsCollection.insertOne(booking)
@@ -57,12 +59,14 @@ async function run (){
             const result = await bookingsCollection.find(query).toArray()
             res.send(result)
         })
+        // users 
         app.post('/users', async(req, res)=>{
             const users= req.body;
             const result = await usersCollection.insertOne(users)
             res.send(result)
         });
         
+        // sellers 
         app.get('/sellers', async(req, res)=>{
             const query = {
                 role:'Seller'
@@ -71,7 +75,7 @@ async function run (){
             res.send(seller)
             
         });
-
+        // buyers 
         app.get('/buyers', async(req, res)=>{
             const query = {
                 role:'Buyer'
@@ -80,7 +84,7 @@ async function run (){
             res.send(seller)
             
         });
-
+        // admin
         app.get('/users/admin/:email', async (req, res) => {
             const email = req.params.email;
             const query = { email }
